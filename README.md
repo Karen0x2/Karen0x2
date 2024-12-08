@@ -8,5 +8,6 @@
 
 <!---
 Karen0x2/Karen0x2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes.![1000003246](https://github.com/user-attachments/assets/c7d5a797-5ed2-49f1-bd19-df785a8e2936)
+
 --->
